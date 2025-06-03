@@ -1,0 +1,10 @@
+name: dashboard_app
+title: dashboard_app
+username: brainandpoverty
+account: brainandpoverty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12816090
+bundleId: 10389948
+url: https://brainandpoverty.shinyapps.io/dashboard_app/
+version: 1
